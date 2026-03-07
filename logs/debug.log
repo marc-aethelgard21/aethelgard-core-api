@@ -1,0 +1,3 @@
+[INFO] 2026-03-01 08:00 - User login attempt
+[ERROR] 2026-03-01 08:05 - Invalid API key: '1234'
+[INFO] 2026-03-01 08:10 - Secret key accessed with base64: YmFvYmFiX3NlY3JldF92MQ==
